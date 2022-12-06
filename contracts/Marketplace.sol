@@ -139,6 +139,9 @@ contract Marketplace is ERC721URIStorage{
         uint256 unSoldItemCount = _tokenIds.current();
         - _itemSold.current();
         uint256 currentIndex=0;
+
+
+        sett
     }
 }
 
